@@ -1,6 +1,10 @@
 # C Mastermind
 This is a very simple version of the game [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) for the terminal.
 
+> [!TIP]
+> Never compiled a c file?
+> `gcc -o mastermind mastermind.c`
+
 ## OBJECT OF THE GAME
 The object of MASTERMIND (r) is to guess a secret code consisting of a series of 4 numbers/colors (in this one it is the numbers ```[1 2 3 4 5 6]```).
 
