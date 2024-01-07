@@ -99,7 +99,7 @@ int main() {
 
     count++;
 
-    char fdbk[5];
+    char fdbk[4];
     collectFeedback(codeMaker, codeBreaker, fdbk);
     printf("[%c %c %c %c]\n", fdbk[0], fdbk[1], fdbk[2], fdbk[3]);
 
